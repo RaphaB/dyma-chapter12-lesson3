@@ -1,0 +1,2 @@
+Dir.entries(".")
+Dir.entries("..")
